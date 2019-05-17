@@ -1,3 +1,3 @@
 Mój pierwszy plik na GitHub :).
-Moje zmiany w moim pliku.
+Zmiany w moim pierwszym pliku. Moje zmiany w moim pliku.
 To jest moja nastepna zmiana.
